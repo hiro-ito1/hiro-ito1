@@ -1,4 +1,4 @@
-## Hi there 👋I'm studying Layer 3 and more!R6 6.10
+## Hi there 👋I'm studying Layer 3 and more!R6 6.10~
 
 <!--
 **hiro-ito1/hiro-ito1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
